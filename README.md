@@ -28,7 +28,7 @@ Another area of challenge for me continues to be the authorization piece.  Using
 
 To start the application, please navigate to:
 
-[my-library deployment]()
+[my-library deployment](https://lit-lowlands-38436.herokuapp.com)
 
 ## Usage
 
